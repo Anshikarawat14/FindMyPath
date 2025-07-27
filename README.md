@@ -33,7 +33,8 @@ An interactive web-based visualization tool for exploring different pathfinding 
 
 
 ### 2.
-<img width="1905" height="992" alt="image" src="https://github.com/user-attachments/assets/0f0e0eac-c03b-4c3a-9d4f-9625491cfca6" />
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/b3e452e3-74a5-49b4-918c-0fd918b8147a" />
+
 
 ## 🎮 How to Use
 
@@ -155,14 +156,14 @@ Feel free to contribute to this project by:
 - Optimizing performance
 - Fixing bugs
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Hritik** - Original source code creator
+**Anshika Rawat :)** 
 
 ---
 
 *Enjoy exploring the fascinating world of pathfinding algorithms!*
+Don't forget to <span style="color:#ff4d6d">STAR</span> if you like!
+
