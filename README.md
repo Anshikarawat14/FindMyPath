@@ -50,13 +50,6 @@ An interactive web-based visualization tool for exploring different pathfinding 
 - **Generate Maze**: Create a random maze using the "Generate random maze" button
 - **Wall Animation**: Toggle wall animation during maze generation
 
-### Color Coding
-- **Blue**: Start point
-- **Red**: End point
-- **Black**: Walls/obstacles
-- **Gray**: Explored nodes
-- **Green**: Final path
-- **White**: Empty space
 
 ## 🔧 Technical Details
 
