@@ -29,7 +29,8 @@ An interactive web-based visualization tool for exploring different pathfinding 
 
 ## Demo Screenshots
 ### 1.
-<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/fd7c5e8b-724b-4687-acef-fcd31a960fa3" />
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/633b8605-7587-45e4-a864-f57e2743d2ff" />
+
 
 ### 2.
 <img width="1905" height="992" alt="image" src="https://github.com/user-attachments/assets/0f0e0eac-c03b-4c3a-9d4f-9625491cfca6" />
