@@ -159,6 +159,6 @@ Feel free to contribute to this project by:
 
 *Enjoy exploring the fascinating world of pathfinding algorithms!*
 
-Don't forget to <span style="color:#ff4d6d"><b>STAR</b></span> ⭐ if you like!
+Don't forget to <span style="color:#ff4d6d"><b>STAR</b></span> ⭐ if it helped!
 
 
